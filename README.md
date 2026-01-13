@@ -10,7 +10,7 @@
 
 This project implements an **Autonomous AI Agent** capable of **triaging, diagnosing, and resolving ServiceNow incidents end-to-end without human intervention**.
 
-It demonstrates a **self-healing IT operations architecture** where AI not only understands problems but also executes automated remediation actions and closes tickets automatically.
+It demonstrates a **self-healing IT operations architecture** where AI not only understands problems but also executes automated remediation actions and resolve tickets automatically.
 
 ---
 
